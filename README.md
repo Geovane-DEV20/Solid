@@ -1,4 +1,4 @@
-Sollid são Soluções criadas para resolver problemas repetitivos da indústria de desenvolvimento de software. É um padrão para resolver determinado problema.
+Solid são Soluções criadas para resolver problemas repetitivos da indústria de desenvolvimento de software. É um padrão para resolver determinado problema.
  
 Single Rseponsibility Principle
 Princípio da Responsabilidade Única
